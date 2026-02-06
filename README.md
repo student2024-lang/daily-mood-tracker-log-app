@@ -5,7 +5,7 @@ Daily Mood Tracker
 ## Превью вайрфрейма
 Ниже показаний low-fidelity вайрфрейм головної сторінки:
 
-![Wireframe головної сторінки]([./A_wireframe_digital_mockup_showcases_a_"Daily_Mood.png](https://www.figma.com/design/KwWU5JgSjOYQbuxmF5bsmt/Untitled?node-id=0-1&t=PKZQcd0Cb7aPhlMF-1))
+![Wireframe головної сторінки](https://www.figma.com/design/KwWU5JgSjOYQbuxmF5bsmt/Untitled?node-id=0-1&t=PKZQcd0Cb7aPhlMF-1)
 
 ### Підписи до блоків на картинці
 1. Header (шапка)  
