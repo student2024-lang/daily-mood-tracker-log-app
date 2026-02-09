@@ -1,77 +1,77 @@
 # Daily Mood Tracker Log App
 
-##  Topic
-Daily Mood Tracker
+## Тема
+Щоденний трекер настрою
 
 ---
 
-##  Wireframe Preview
-Below is a low-fidelity wireframe of the main page:
+## Попередній wireframe
+Нижче наведено low-fidelity wireframe головної сторінки:
 
 ![Main page wireframe](https://github.com/user-attachments/assets/816a9fc1-52e1-4e16-b36e-20661ca020d7)
 
 ---
 
-##  Wireframe Block Descriptions
+## Опис блоків wireframe
 
-### 1. Header
-- Product name: **Daily Mood Tracker**
-- Navigation: **Profile / History**
+### 1. Хедер
+- Назва продукту: **Daily Mood Tracker**
+- Навігація: **Профіль / Історія**
 
-### 2. Central Value Proposition
-- Text:  
-  > *“Track your mood every day in one click”*
+### 2. Центральна ціннісна пропозиція
+Текст:  
+> *«Відстежуйте свій настрій щодня одним кліком»*
 
-### 3. Primary Action
-- Button: **Add today’s mood**
-- Large, centered, and visually emphasized to attract user attention
+### 3. Основна дія
+- Кнопка: **Додати сьогоднішній настрій**
+- Велика, по центру, візуально виділена для привернення уваги користувача
 
-### 4. Main Content Area
-- List of recent mood entries (date + mood)
-- Empty state text:  
-  **“No mood records yet”**
+### 4. Основна область контенту
+- Список останніх записів настрою (дата + настрій)
+- Текст порожнього стану:  
+  **«Записів настрою ще немає»**
 
-### 5. Secondary Elements
-- Filter or helper text such as **“Last 7 days”**
-- Does not compete visually with the primary action
-
----
-
-##  Main User Flow (Happy Path)
-1. User opens the main page  
-2. Sees the **“Add today’s mood”** button  
-3. Selects their current mood  
-4. Confirms the action  
-5. Sees the saved mood entry in the list  
-
-The flow is completed without errors or unnecessary steps.
+### 5. Другорядні елементи
+- Фільтр або допоміжний текст, наприклад: **«Останні 7 днів»**
+- Не конкурує візуально з основною кнопкою
 
 ---
 
-## Grid and Spacing Rules
-- Base spacing unit: **8px**
-- Alignment: all headings and buttons aligned to the same left edge
-- Vertical hierarchy:
-  - Header
-  - Primary Action
-  - Content
-- Layout: single-column, no complex splits
+## Основний користувацький сценарій (Happy Path)
+1. Користувач відкриває головну сторінку  
+2. Бачить кнопку **«Додати сьогоднішній настрій»**  
+3. Обирає свій поточний настрій  
+4. Підтверджує дію  
+5. Бачить збережений запис у списку  
+
+Сценарій проходить без помилок або зайвих кроків.
 
 ---
 
-##  Color Palette & Typography
-- Background colors: light gray, white, red
-- Text color: white
-- Additional colors: yellow, blue, black, pink
-- Accent color: white/red for the primary button
-- Typography:
-  - One sans-serif font
-  - Larger font size for headings
-  - Standard body text
-  - Semi-bold text for buttons
+## Сітка та відступи
+- Базова одиниця відступів: **8px**
+- Вирівнювання: всі заголовки та кнопки вирівняні по одному лівому краю
+- Вертикальна ієрархія:
+  - Хедер
+  - Основна дія
+  - Контент
+- Макет: одноколонковий, без складних розділень
 
 ---
 
-##  Contrast & Visual Hierarchy
-- Primary action is highlighted using strong contrast and a larger button size
-- Secondary elements remain neutral and do not distract the user
+## Кольорова палітра та типографіка
+- Кольори фону: світло-сірий, білий, червоний
+- Колір тексту: білий
+- Додаткові кольори: жовтий, синій, чорний, рожевий
+- Акцентний колір: білий / червоний (для основної кнопки)
+- Типографіка:
+  - Один sans-serif шрифт
+  - Збільшений розмір шрифту для заголовків
+  - Стандартний текст для основного контенту
+  - Напівжирний текст для кнопок
+
+---
+
+## Контраст і візуальна ієрархія
+- Основна дія виділена за допомогою сильного контрасту та більшого розміру кнопки
+- Другорядні елементи залишаються нейтральними й не відволікають користувача
