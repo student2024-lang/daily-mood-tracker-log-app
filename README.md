@@ -1,57 +1,77 @@
-# daily-mood-tracker-log-app
-## Тема
+# Daily Mood Tracker Log App
+
+##  Topic
 Daily Mood Tracker
 
-## Превью вайрфрейма
-Ниже показаний low-fidelity вайрфрейм головної сторінки:
+---
 
-![Wireframe головної сторінки] (https://github.com/user-attachments/assets/816a9fc1-52e1-4e16-b36e-20661ca020d7)
+##  Wireframe Preview
+Below is a low-fidelity wireframe of the main page:
 
-
-### Підписи до блоків на картинці
-1. Header (шапка)  
-   - Назва продукту: *Daily Mood Tracker*  
-   - Навігація: Profile / History
-
-2. Центральний блок цінності  
-   - Текст: *“Track your mood every day in one click”*  
-
-3. Головна дія (Primary Action)  
-   - Кнопка: “Add today’s mood”  
-   - Велика, по центру, акцентує увагу користувача
-
-4. Зона ключового контенту  
-   - Список останніх записів настрою (дата + стан)  
-   - Якщо записів немає — текст “No mood records yet”
-
-5. Допоміжні елементи  
-   - Фільтр або текст “Last 7 days”, який не конкурує з головною дією
+![Main page wireframe](https://github.com/user-attachments/assets/816a9fc1-52e1-4e16-b36e-20661ca020d7)
 
 ---
 
-## Головний сценарій і «щасливий шлях»
-Користувач відкриває головну сторінку, бачить кнопку “Add today’s mood”, обирає свій настрій, підтверджує дію та бачить збережений запис у списку.  
-Сценарій завершується без помилок і зайвих кроків.
+##  Wireframe Block Descriptions
+
+### 1. Header
+- Product name: **Daily Mood Tracker**
+- Navigation: **Profile / History**
+
+### 2. Central Value Proposition
+- Text:  
+  > *“Track your mood every day in one click”*
+
+### 3. Primary Action
+- Button: **Add today’s mood**
+- Large, centered, and visually emphasized to attract user attention
+
+### 4. Main Content Area
+- List of recent mood entries (date + mood)
+- Empty state text:  
+  **“No mood records yet”**
+
+### 5. Secondary Elements
+- Filter or helper text such as **“Last 7 days”**
+- Does not compete visually with the primary action
 
 ---
 
-## Правила сітки та відступів
-- Базовий крок відступів: 8 px  
-- Вирівнювання: всі заголовки та кнопки по одному лівому краю  
-- Вертикальна ієрархія: Header → Головна дія → Контент  
-- Один стовпець, без складних розбиттів
+##  Main User Flow (Happy Path)
+1. User opens the main page  
+2. Sees the **“Add today’s mood”** button  
+3. Selects their current mood  
+4. Confirms the action  
+5. Sees the saved mood entry in the list  
+
+The flow is completed without errors or unnecessary steps.
 
 ---
 
-## Базова стильова палітра та типографіка
-- Фон: світло-сірий,білий та червоний
-- Текст: білий
-- Інші коляра: жовтий, блакитний, чорний та рожевий  
-- Акцентний колір: білий/червоний для головної кнопки  
-- Шрифти: один без зарубок, заголовки більший кегль, текст стандартний, кнопка — напівжирний текст
+## Grid and Spacing Rules
+- Base spacing unit: **8px**
+- Alignment: all headings and buttons aligned to the same left edge
+- Vertical hierarchy:
+  - Header
+  - Primary Action
+  - Content
+- Layout: single-column, no complex splits
 
 ---
 
-## Контраст і візуальна ієрархія
-Головна дія підсвічена контрастом і більшим розміром кнопки.  
-Другорядні елементи нейтральні і не відволікають увагу.
+##  Color Palette & Typography
+- Background colors: light gray, white, red
+- Text color: white
+- Additional colors: yellow, blue, black, pink
+- Accent color: white/red for the primary button
+- Typography:
+  - One sans-serif font
+  - Larger font size for headings
+  - Standard body text
+  - Semi-bold text for buttons
+
+---
+
+##  Contrast & Visual Hierarchy
+- Primary action is highlighted using strong contrast and a larger button size
+- Secondary elements remain neutral and do not distract the user
